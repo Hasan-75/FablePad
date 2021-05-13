@@ -1,6 +1,10 @@
-# Elmish Getting Started
+## Overview
 
 This is a simple Fable ToDo application that follows [Elmish](https://elmish.github.io/) pattern. The repository is made for learning purposes.
+
+## Demo
+
+Check out the demo from here https://hasan-75.github.io/FablePad/
 
 ## Building and running the app
 
